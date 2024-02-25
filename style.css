@@ -27,5 +27,9 @@ body{
     }audio{
     width :300px;
     height :300px;
+    }
+    #datetime{
+    font-weight:bold;
+    text-align:center;
     
    }
