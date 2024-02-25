@@ -1,0 +1,19 @@
+body{
+    margin :0;
+    background-color:red;
+    
+   }p{
+      font-size: medium;
+      font-color: White;
+      font-family:Times New Roman ,Times San Serif;
+    }h1{
+    text-align:center;
+    }h2{
+    text-align:center;
+    }.bio{
+    text-align:center;
+    font-size:20px;
+    background-color:green;
+    }.container {
+    background-color:yellow;
+   }
